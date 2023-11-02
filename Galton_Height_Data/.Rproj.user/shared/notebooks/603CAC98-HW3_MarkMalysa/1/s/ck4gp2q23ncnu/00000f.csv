@@ -1,0 +1,1 @@
+"0","regressModel2 <- lm(data = galton_height, mid_Parent_height~adj_height)"

@@ -1,0 +1,1 @@
+"0","ggplot(data=galton_height, aes(x=adj_height, y=mid_Parent_height)) + geom_point() + geom_smooth(method = lm) + geom_abline(intercept = 0, slope = 1, color = ""red"")"
