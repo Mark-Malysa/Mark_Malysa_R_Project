@@ -1,0 +1,7 @@
+"0","residuals <- score_model1$residuals"
+"0","qq <- ggplot(data = USlifehistory, mapping = aes(sample = residuals)) +"
+"0","  stat_qq() +"
+"0","  labs(title = ""QQ Plot of Residuals"","
+"0","       x = ""Quantiles"","
+"0","       y = ""Residuals"")"
+"0","qq"
