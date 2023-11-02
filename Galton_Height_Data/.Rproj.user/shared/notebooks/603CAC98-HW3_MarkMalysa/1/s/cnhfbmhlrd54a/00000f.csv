@@ -1,5 +1,0 @@
-"0","mean(galton_height$adj_height[galton_height$mid_Parent_height < 73 & galton_height$mid_Parent_height > 72])"
-"1","[1]"
-"1"," 71.31255"
-"1","
-"

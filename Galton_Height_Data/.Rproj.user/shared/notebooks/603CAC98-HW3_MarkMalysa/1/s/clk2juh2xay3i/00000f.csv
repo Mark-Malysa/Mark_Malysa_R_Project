@@ -1,3 +1,0 @@
-"0","USlifehistory <- read.csv('USlifehistory.csv')"
-"0","galton_height <- read.csv('galton_height.csv')"
-"0","galton_peas <- read.csv('galton_peas.csv')"

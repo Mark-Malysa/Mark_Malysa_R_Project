@@ -1,1 +1,0 @@
-"0","ggplot(data=USlifehistory, aes(x=yearsfrom1880, y=residuals)) + geom_point() + geom_smooth(method = lm)"
